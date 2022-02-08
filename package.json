@@ -1,0 +1,24 @@
+{
+  "name": "learnyounode_lee",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C110181141/learnyounode_lee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C110181141/learnyounode_lee/issues"
+  },
+  "homepage": "https://github.com/C110181141/learnyounode_lee#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
